@@ -1,0 +1,16 @@
+body {
+  margin: 0 auto; /* Centers the content */
+  background-color: gray;
+  background-image: url("/images/beachscape.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+iframe {
+  width: 90vw;
+  height: 90vh;
+}
